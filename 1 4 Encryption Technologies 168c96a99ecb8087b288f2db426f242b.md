@@ -2,7 +2,7 @@
 
 Created time: 26 décembre 2024 19:39
 Last edited by: OLB_
-Last edited time: 13 mars 2025 17:21
+Last edited time: 4 avril 2025 14:24
 
 - TPM - Trusted Platform Module
     - Cryptographic hardware
@@ -13,7 +13,7 @@ Last edited time: 13 mars 2025 17:21
         - Password Protected
         - Resistant to bruteforce attack
     
-    **⇒** Useful Key provider for **Disk Encryption** 
+    **⇒** Useful Key provider and secure processor for **Disk Encryption** 
     
 
 - HSM
@@ -45,4 +45,4 @@ Last edited time: 13 mars 2025 17:21
     ⇒ **Secure data in memory during crypto processing** 
     
 
-![image.png](image%205.png)
+![image.png](image%2010.png)

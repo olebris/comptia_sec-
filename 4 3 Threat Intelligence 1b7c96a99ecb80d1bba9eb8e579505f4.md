@@ -2,7 +2,7 @@
 
 Created time: 15 mars 2025 15:17
 Last edited by: OLB_
-Last edited time: 22 mars 2025 13:46
+Last edited time: 5 avril 2025 15:29
 
 Threat intelligence is the set of activities and resources available to cybersecurity professionals seeking to learn about changes in the threat environment
 
@@ -89,10 +89,10 @@ Exchange protocol (over HTTPS) ⇒ TAXII
     - by sector (finance, energy, avaition…)
     - provide CTI feeds, alert, tools, Incident response help
 
-![image.png](image%2028.png)
+![image.png](image%2043.png)
 
 **Other source for CTI**
 
 - vendors product site
 - RFC Request for Comments
-- Social media accounts of ptominent security professionnals
+- Social media accounts of prominent security professionals

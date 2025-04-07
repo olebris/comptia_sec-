@@ -2,7 +2,7 @@
 
 Created time: 14 mars 2025 15:18
 Last edited by: OLB_
-Last edited time: 27 mars 2025 23:21
+Last edited time: 4 avril 2025 16:31
 
 - Code injection (sqli, xss, xxe, ldap)
     - reflected XSS Vs Stored XSS
@@ -10,20 +10,16 @@ Last edited time: 27 mars 2025 23:21
 - buffer overflow
 - replay attack (need network tap or arp poisoning)
 - privilege escalation
-- CSR - Cross site request
-    - are legitimate most of the time (ex youtube embedded video)
-    - CSRF attack : “Cross side request forgery” attack use CSR
+- CSRF attack : “Cross side request forgery”
 
-![image.png](image%2023.png)
-
-CSRF attack
+![image.png](image%2036.png)
 
 <aside>
 👉
 
 XSS attacks exploit the trust that a user has in a website to execute code on the user's computer. 
 
-X/CSRF attacks exploit the trust that remote sites have in a user's system to execute
+X/CSRF attacks exploit the trust that remote sites have in a user's session to execute
 commands on the user's behalf.
 
 </aside>
@@ -35,6 +31,7 @@ commands on the user's behalf.
     - LFI
     - RFI
 - Session cookie stealing
+    - XSS or on-path/MITM attack
 - Pollution parameter
 
 [`https://exemple.com/login?user=admin&user=attaquant`](https://exemple.com/login?user=admin&user=attaquant)

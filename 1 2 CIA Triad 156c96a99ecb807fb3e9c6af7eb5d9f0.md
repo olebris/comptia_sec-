@@ -2,12 +2,12 @@
 
 Created time: 8 décembre 2024 19:07
 Last edited by: OLB_
-Last edited time: 26 décembre 2024 17:51
+Last edited time: 4 avril 2025 12:53
 
 ## **Confidentiality:**
 
 - Encryption
-- ACL / Access Control
+- ACL / Access Control List
 - MFA
 
 ## Integrity:

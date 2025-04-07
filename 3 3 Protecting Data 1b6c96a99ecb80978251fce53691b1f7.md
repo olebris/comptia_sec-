@@ -2,12 +2,12 @@
 
 Created time: 14 mars 2025 22:11
 Last edited by: OLB_
-Last edited time: 21 mars 2025 12:09
+Last edited time: 5 avril 2025 14:30
 
 - Geographic restriction
     - IP subnet
     - GPS
-    - 802.11
+    - WIFI localisation
     - Mobile provider
 - Geofencing
     - access if the user is in a particular location
@@ -32,3 +32,12 @@ Last edited time: 21 mars 2025 12:09
     - by deidentification (anonymisation)
     - by data obfuscation (can loss the original data !)
         - hashing / tokenization / masking
+- Data purpose limitation
+    - information should be used only for the purpose that it was originally
+    collected and that was consented to by the data subjects
+- Right to Be Forgotten
+    - allows individuals to request the deletion
+    of personal data about them under certain circumstances
+- Data retention policy
+    - Reducing the amount of data that you retain is a great way to
+    minimize your security risk.

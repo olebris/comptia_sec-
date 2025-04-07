@@ -2,8 +2,10 @@
 
 Created time: 17 mars 2025 22:35
 Last edited by: OLB_
-Last edited time: 18 mars 2025 12:30
+Last edited time: 5 avril 2025 17:18
 
+- Data subjects
+    - are individuals whose personal data is being processed
 - Data Owner
     - people responsible of business data (senior sales, senior Accountant, payroll department manager ..)
 - Data controller
@@ -16,9 +18,9 @@ Last edited time: 18 mars 2025 12:30
     - responsible of data security, privacy, accuracy
         - manage access rights to the data
         - ensure technical compliance with law and standards
-        - associate sensivity labels
+        - associate sensitivity labels
         - implement security controls
 
-![image.png](image%2031.png)
+![image.png](image%2048.png)
 
-![image.png](image%2032.png)
+![image.png](image%2049.png)

@@ -2,7 +2,7 @@
 
 Created time: 29 décembre 2024 21:55
 Last edited by: OLB_
-Last edited time: 22 mars 2025 16:23
+Last edited time: 4 avril 2025 17:34
 
 - spyware
     - spy your activities , identity theft
@@ -14,6 +14,7 @@ Last edited time: 22 mars 2025 16:23
             - patching
             - MFA to prevent password leak
     - stalkerware
+        - kind of spyware used to spy on wife/husband
 - prevent spyware
     - anti-virus / anti-malware
     - watch during installation (options)

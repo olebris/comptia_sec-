@@ -2,7 +2,7 @@
 
 Created time: 29 décembre 2024 19:43
 Last edited by: OLB_
-Last edited time: 14 mars 2025 13:23
+Last edited time: 4 avril 2025 16:17
 
 - Attackers can infect different parts of the chain
     - Raw materials
@@ -11,10 +11,10 @@ Last edited time: 14 mars 2025 13:23
     - distributors
     - customers
     - consumers …
-- Service Provider
+- Service Provider / Vendors / MSP / MSSP
     - opportunity for attackers
     - Networks / Admin / Cloud / Office Cleaning
-- Hardware provider
+- Hardware provider (during shipping or manufacturing)
     - firewalls
     - routers
     - softwares

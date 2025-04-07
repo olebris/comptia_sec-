@@ -2,15 +2,16 @@
 
 Created time: 14 mars 2025 16:25
 Last edited by: OLB_
-Last edited time: 14 mars 2025 16:45
+Last edited time: 4 avril 2025 18:00
 
 - System hardening
     - update
-    - password policy (length, complexity)
+    - password policy (**length**, complexity)
     - limit accounts
     - limit Network access
     - AV, EDR
     - Monitoring , logs
+    - apply Security baseline w/ CIS Benchmark
 - Encryption
     - EFS (files)
     - Bitlocker (Full disk Encryption - FDE)

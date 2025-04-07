@@ -14,6 +14,6 @@ Last edited time: 29 décembre 2024 15:55
         - 256 Bits / 64 hex characters
         
 
-![image.png](image%2018.png)
+![image.png](image%2029.png)
 
-![image.png](image%2019.png)
+![image.png](image%2030.png)

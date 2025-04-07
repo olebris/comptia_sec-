@@ -2,14 +2,14 @@
 
 Created time: 29 décembre 2024 17:28
 Last edited by: OLB_
-Last edited time: 13 mars 2025 19:52
+Last edited time: 4 avril 2025 15:23
 
 - Infect 3d party sites
     - Target employees IP on a 3d party website (Lunch, hobbies…)
 - Infect visitors
-    - Drop USB keys in a parking lot …
+    - Drop USB keys in a parking lot …(not really a Watering Hole attack^^)
 
-![image.png](image%2014.png)
+![image.png](image%2022.png)
 
 - Mitigation / Prevention
     - Defense in depth

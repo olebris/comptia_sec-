@@ -2,7 +2,7 @@
 
 Created time: 29 décembre 2024 17:22
 Last edited by: OLB_
-Last edited time: 22 mars 2025 18:21
+Last edited time: 4 avril 2025 15:10
 
 - Impersonation:
     - Pretend to be someone
@@ -15,7 +15,7 @@ Last edited time: 22 mars 2025 18:21
     - Never give personal details our passwords
     - Always verify 3d parties
     - Encourage Verification in your company
-- BEC / EAC - business email compromise or email acount compromise
+- **BEC / EAC** - business email compromise or email account compromise
     - sending spoofed email
     - use compromised accounts
     - Prevent with MFA, awareness training

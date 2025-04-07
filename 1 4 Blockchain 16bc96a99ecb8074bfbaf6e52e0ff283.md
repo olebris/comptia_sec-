@@ -2,15 +2,18 @@
 
 Created time: 29 décembre 2024 15:55
 Last edited by: OLB_
-Last edited time: 13 mars 2025 17:59
+Last edited time: 4 avril 2025 13:35
 
-- Keep track of all transactions ( distributed ledger / registre)
-- Transaction is verified by every node/computer in a decentralized network
+- Technology build to keep track of all transactions ( distributed open public ledger / registre)
 - Practical use :
     - Payment
-    - Identification
-    - Supply chain monitoring
-    - Digital voting
-- Transaction are shared to every nodes
-- Transaction are added to a block with a hash off all transactions of the block for integrity
-- New block is added with 1 hash of new transactions + 1 hash of previous bloc transactions
+    - Identification (stockage décentralisé des documents d’identité)
+    - Supply chain monitoring (cycle de vie des produits et composants)
+    - Digital voting (chaque vote = transaction immuable)
+- Used mainly for cryptocurrency
+- Transaction (change) is shared and verified by every node/computer in a decentralized network
+- The new block is added with 1 hash of new transactions + 1 hash of the previous bloc
+
+POW (proof of work)
+
+- **Sécuriser** le réseau contre les manipulations (rendre difficile la réécriture d’anciens blocs ou la double dépense)

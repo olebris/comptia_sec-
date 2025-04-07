@@ -2,11 +2,11 @@
 
 Created time: 15 mars 2025 19:00
 Last edited by: OLB_
-Last edited time: 21 mars 2025 12:01
+Last edited time: 5 avril 2025 16:26
 
 - FIM (File Integrity Monitoring)
     - fingerprint and monitor/track file change
-    - Windows SFC
+    - Windows SFC (System File Checker)
     - Linux Tripwire
     - HIPS (on OS important files)
 - DLP
@@ -15,7 +15,7 @@ Last edited time: 21 mars 2025 12:01
         - search for sensitive data with pattern matching (number or sensitive words)
         - monitor system config and can block action
         - block watermarked data (DRM or Data tagged as sensitive)
-    - on network ⇒ data in motion /Agentless (network-based) DLP
+    - on network ⇒ data in motion / Agentless (network-based) DLP
         - block transmission of sensitive data (watermark or pattern)
         - can automatically encrypt data
     - on server ⇒ data at rest / Agent-based DLP

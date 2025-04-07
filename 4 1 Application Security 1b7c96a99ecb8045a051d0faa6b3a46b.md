@@ -2,7 +2,7 @@
 
 Created time: 15 mars 2025 14:44
 Last edited by: OLB_
-Last edited time: 27 mars 2025 22:47
+Last edited time: 5 avril 2025 14:58
 
 - Security as part of the SDLC - Software Development Life Cycle
     - planning
@@ -13,7 +13,7 @@ Last edited time: 27 mars 2025 22:47
     - coding
         - best practice / secure coding (OWASP)
         - code review
-        - unit test
+        - Unit test
         - SAST / DAST
         
         **OWASP** 
@@ -76,10 +76,15 @@ Last edited time: 27 mars 2025 22:47
 - TEST TEST TEST
 - check input method
     - documentation
+    - prepared SQL request
     - sanitization
     - fuzzing to test
 - cookies
-    - secure attribute set (httponly)
+    - secure attribute set
+        - `httponly`, `samesite=Strict`, `secure`,
+        `Domain`
+    - **Content Security Policy (CSP)**
+        - `default-src 'self'`
     - no sensitive data in cookies
 - SAST
     - Static Application Security Testing

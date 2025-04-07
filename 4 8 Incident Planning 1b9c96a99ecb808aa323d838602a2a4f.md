@@ -2,9 +2,9 @@
 
 Created time: 17 mars 2025 21:29
 Last edited by: OLB_
-Last edited time: 17 mars 2025 21:49
+Last edited time: 5 avril 2025 17:11
 
-- Excercising
+- Exercising
     - schedule test sessions and updates
     - define Rules of Engagement
     - specific scenario (limit the time)

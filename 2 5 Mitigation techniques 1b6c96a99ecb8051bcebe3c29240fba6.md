@@ -2,7 +2,7 @@
 
 Created time: 14 mars 2025 16:12
 Last edited by: OLB_
-Last edited time: 14 mars 2025 16:25
+Last edited time: 4 avril 2025 18:04
 
 - Patching
     - updates (auto or manual)
@@ -20,6 +20,7 @@ Last edited time: 14 mars 2025 16:25
 - Configuration enforcement
     - posture assessment (evaluation de sécurité)
         - CONFIG CHECKLIST
+    - CIS Benchmark
     - extensive check for os ,edr , firewall , certificate …
     - EOL systems
         - private VLAN

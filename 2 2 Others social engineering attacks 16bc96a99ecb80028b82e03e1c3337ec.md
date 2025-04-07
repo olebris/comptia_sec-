@@ -2,7 +2,7 @@
 
 Created time: 29 décembre 2024 17:33
 Last edited by: OLB_
-Last edited time: 22 mars 2025 18:13
+Last edited time: 4 avril 2025 15:13
 
 <aside>
 👉
@@ -25,7 +25,7 @@ variety of strategies to accomplish desired actions.
     - influence campaign
     - MDM =  misinformation, disinformation, and malinformation
 
-![image.png](image%209.png)
+![image.png](image%2015.png)
 
 - Brand impersonation
     - Website and logo impersonation to create trust

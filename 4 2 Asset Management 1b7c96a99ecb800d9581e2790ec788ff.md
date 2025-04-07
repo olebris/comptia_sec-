@@ -2,7 +2,7 @@
 
 Created time: 15 mars 2025 14:44
 Last edited by: OLB_
-Last edited time: 15 mars 2025 15:16
+Last edited time: 31 mars 2025 16:23
 
 - Procurement process( Achat)
 - Central Asset Tracking System
@@ -19,3 +19,6 @@ Last edited time: 15 mars 2025 15:16
     - Degaussing (Degaussage) : Electromagnetic destruction
     - Incineration
 - Data Retention
+- Data Wiping
+    - DBAN (wipe multipass to erase data)
+    - FDE and delete the key

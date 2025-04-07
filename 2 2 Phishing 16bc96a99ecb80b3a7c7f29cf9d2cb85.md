@@ -2,11 +2,11 @@
 
 Created time: 29 décembre 2024 17:17
 Last edited by: OLB_
-Last edited time: 22 mars 2025 18:09
+Last edited time: 4 avril 2025 15:15
 
 - Social Engineering by message
     - spoofed (business) email
-    - typosqatting URL / FQDN
+    - typo-squatting URL / FQDN
     - Vishing : voice message
         - most of the time for fraud
         - use urgency and impersonation

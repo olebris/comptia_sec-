@@ -12,6 +12,6 @@ Last edited time: 14 mars 2025 13:59
     - use zombie PC (Botnet)
     
 
-![image.png](image%2013.png)
+![image.png](image%2020.png)
 
 Botnet PCs spoof victim’s web server IP and ask DNS records to Open DNS  resolvers. DNS response creates a DDoS on Web Server…
